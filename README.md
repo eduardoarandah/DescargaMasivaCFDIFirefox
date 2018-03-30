@@ -1,4 +1,4 @@
-# Descarga Masiva CFDI Firefox
+# Descarga Masiva CFDI para Firefox
 
 Descarga masivamente los CFDI (XML y PDF) del SAT México
 
@@ -6,7 +6,7 @@ Descarga masivamente los CFDI (XML y PDF) del SAT México
 
 # Cómo Instalar
 
-### 1) Descarga la extensión en ZIP
+### 1) Descarga la extensión en [este enlace](https://github.com/eduardoarandah/DescargaMasivaCFDIFirefox/archive/master.zip)
 
 ### 2) Descomprime la carpeta en donde gustes
 ![descomprimir](https://user-images.githubusercontent.com/4065733/38109729-58fbedd6-3356-11e8-845f-3e89237d15fd.png)
@@ -18,7 +18,7 @@ Descarga masivamente los CFDI (XML y PDF) del SAT México
 
 
 ### 5) Deberá aparecer un icono en el menú
-![instalada](https://user-images.githubusercontent.com/4065733/38109730-59472efe-3356-11e8-87f6-ad41ab932848.png)
+![icono](https://user-images.githubusercontent.com/4065733/38120044-3aa6e368-3383-11e8-9067-511cc730a453.png)
 
 # Cómo usar
 
