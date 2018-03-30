@@ -1,23 +1,20 @@
 # Descarga Masiva CFDI para Firefox
 
-Descarga masivamente los CFDI (XML y PDF) del SAT México
+Descarga masivamente los CFDI (XML y PDF) del SAT México. 
+
+Esta aplicación es gratuita y open source. 
+
+Contáctame si deseas integrar con tus sistemas empresariales. 
 
 ![descargarxml](https://user-images.githubusercontent.com/4065733/38107780-1d87b470-3350-11e8-9faf-ef1413bf79a9.png)
 
 # Cómo Instalar
 
-### 1) Descarga la extensión en [este enlace](https://github.com/eduardoarandah/DescargaMasivaCFDIFirefox/archive/master.zip)
+### 1) Necesitas tener instalado [Firefox](https://www.mozilla.org/es-MX/firefox/new/)
 
-### 2) Descomprime la carpeta en donde gustes
-![descomprimir](https://user-images.githubusercontent.com/4065733/38109729-58fbedd6-3356-11e8-845f-3e89237d15fd.png)
+### 2) Instala el plugin aquí: [https://addons.mozilla.org/en-US/firefox/addon/descarga-masiva-facturas/](https://addons.mozilla.org/en-US/firefox/addon/descarga-masiva-facturas/)
 
-### 3) En Firefox ve a la dirección "about:debugging#addons"
-
-
-### 4) Haz click en "Cargar complemento temporal" y selecciona el archivo manifest.json
-
-
-### 5) Deberá aparecer un icono en el menú
+### 3) Deberá aparecer un icono en el menú
 ![icono](https://user-images.githubusercontent.com/4065733/38120044-3aa6e368-3383-11e8-9067-511cc730a453.png)
 
 # Cómo usar
@@ -28,9 +25,8 @@ Descarga masivamente los CFDI (XML y PDF) del SAT México
 
 ![icono](https://user-images.githubusercontent.com/4065733/38109726-5899f7de-3356-11e8-8fed-04dfda6c5c77.png)
 
-# Para analizar los CFDI
+### 4) Después analiza tus XML en: [https://analizador-cfdi.netlify.com](https://analizador-cfdi.netlify.com)
 
-Puedes usar la herramienta [Analizador CFDI](https://github.com/eduardoarandah/AnalizadorCFDI)
 
 # Desarrollo
 
