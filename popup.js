@@ -52,7 +52,7 @@ window.onload = function() {
     }
     document.getElementById('enlace').onclick = function() {
         browser.tabs.create({
-            url: 'https://github.com/eduardoarandah/AnalizadorCFDI'
+            url: 'https://github.com/eduardoarandah'
         });
     }
     //esta función agrega un JS a la tab activa para enviar los enlaces al listener
