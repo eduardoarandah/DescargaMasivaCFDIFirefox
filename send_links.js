@@ -53,7 +53,7 @@ for (var i = 0; i < folios.length; i++) {
 //     ["https://mdn.mozillademos.org/files/15751/browser-action.png"],
 //     ["https://mdn.mozillademos.org/files/15215/weta.png", "https://mdn.mozillademos.org/files/15217/basic_theme.png"]
 // ];
-console.log(links);
+// console.log(links);
 
 
 //enviamos el array de arrays al popup, al listener
