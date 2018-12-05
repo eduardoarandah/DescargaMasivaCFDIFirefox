@@ -1,4 +1,4 @@
-# Descarga Masiva CFDI para Google Chrome
+# Descarga Masiva CFDI para Firefox
 
 Descarga masivamente los CFDI (XML y PDF) del [SAT México](https://sat.gob.mx/)
 
